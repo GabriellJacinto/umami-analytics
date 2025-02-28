@@ -5,7 +5,7 @@ Created by https://github.com/thomascenni/umami/
 This repository allows you to deploy the latest <a href="https://umami.is/" target="_blank">Umami software</a>.
 
 ## Automatic Deploy
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/thomascenni/umami)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/GabriellJacinto/umami-analytics.git)
 
 
 ## Manual Deploy

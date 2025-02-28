@@ -1,6 +1,8 @@
 # Umami on Render
 
-This repository allows you to deploy the latest <a href="https://umami.is/" target="_blank">Umami software</a> (v2.10.2) on Render.
+Created by https://github.com/thomascenni/umami/
+
+This repository allows you to deploy the latest <a href="https://umami.is/" target="_blank">Umami software</a>.
 
 ## Automatic Deploy
 [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/thomascenni/umami)
